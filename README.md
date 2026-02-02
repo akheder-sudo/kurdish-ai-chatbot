@@ -16,6 +16,13 @@ Optional: provide your name.
 python3 main.py --name "Aso"
 ```
 
+## Testing
+There are no automated tests yet. To do a quick manual check, run:
+```bash
+python3 main.py
+```
+Then try some example prompts from the list below.
+
 ## Example prompts
 - "سڵاو"
 - "کات چەندە؟"
